@@ -13,6 +13,9 @@ if ($metodo == "sha256") {
     $resultado = hash("sha256", $texto);
 }
 
+if ($metodo == "base64") {
+    $resultado = base64_encode($texto);
+}
 
 
 ?>
