@@ -171,7 +171,11 @@
                 No PHP, podemos utilizar a função base64_encode() para codificar
                 um determinado texto.
             </p>
+    
+        <div class="card">
 
+        
+        </div>
     </div>
 
 </section>
