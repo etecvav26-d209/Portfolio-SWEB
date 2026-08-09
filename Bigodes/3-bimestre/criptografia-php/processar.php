@@ -7,3 +7,8 @@ $metodo = $_POST["metodo"];
 
 ?>
 
+<?php
+
+include("includes/footer.php");
+
+?>
