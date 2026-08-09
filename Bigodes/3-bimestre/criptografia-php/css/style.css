@@ -36,3 +36,19 @@ header p {
     color: #ffffff;
     margin-bottom: 20px;
 }
+
+nav {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #100EE6;
+}
