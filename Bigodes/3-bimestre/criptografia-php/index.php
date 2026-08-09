@@ -1,6 +1,6 @@
 <?php
 
-include("includes/header.php");
+    include("includes/header.php");
 
 ?>
 
@@ -44,29 +44,29 @@ include("includes/header.php");
 
     <section id="md5">
 
-    <div class="container">
+        <div class="container">
 
-        <h2>MD5</h2>
+            <h2>MD5</h2>
 
-        <p>
-            MD5 (Message-Digest Algorithm 5) é uma função de hash
-            que transforma uma informação de entrada em uma sequência
-            de caracteres de tamanho fixo.
-        </p>
+            <p>
+                MD5 (Message-Digest Algorithm 5) é uma função de hash
+                que transforma uma informação de entrada em uma sequência
+                de caracteres de tamanho fixo.
+            </p>
 
-        <p>
-            O resultado gerado pelo MD5 possui 128 bits e normalmente
-            é representado por uma sequência hexadecimal de 32 caracteres.
-        </p>
+            <p>
+                O resultado gerado pelo MD5 possui 128 bits e normalmente
+                é representado por uma sequência hexadecimal de 32 caracteres.
+            </p>
 
-        <p>
-            No PHP, podemos utilizar a função md5() para gerar o hash
-            de um determinado texto.
-        </p>
+            <p>
+                No PHP, podemos utilizar a função md5() para gerar o hash
+                de um determinado texto.
+            </p>
 
-    </div>
+        </div>
 
-     <div class="card">
+        <div class="card">
 
             <h3>Teste o MD5</h3>
 
@@ -93,15 +93,13 @@ include("includes/header.php");
                 </button>
 
                 </form>
-
-    </div>
-    
+        </div>
     </section>
 
 </main>
 
 <?php
 
-include("includes/footer.php");
+    include("includes/footer.php");
 
 ?>
