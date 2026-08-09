@@ -105,6 +105,27 @@ nav a:hover {
 
 footer {
     background-color: #030233;
+    background-image:   /* 13 - Adicionei o mesmo degrade suave nos 4 cantos do footer */
+    radial-gradient(
+      circle at top left,
+      rgba(145, 211, 238, 0.06),
+      transparent 50%
+    ),
+    radial-gradient(
+      circle at top right,
+      rgba(145, 211, 238, 0.06),
+      transparent 50%
+    ),
+    radial-gradient(
+      circle at bottom left,
+      rgba(145, 211, 238, 0.06),
+      transparent 50%
+    ),
+    radial-gradient(
+      circle at bottom right,
+      rgba(145, 211, 238, 0.06),
+      transparent 50%
+    );
     color: #ddf3f5;
     text-align: center;
     padding: 35px 0;
