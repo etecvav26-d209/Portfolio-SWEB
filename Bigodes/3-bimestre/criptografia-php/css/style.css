@@ -36,7 +36,7 @@ header h1 {
 }
 
 header p {
-    color: #ffffff;
+    color: #ddf3f5;
     margin-bottom: 20px;
 }
 
@@ -47,25 +47,22 @@ nav {
 }
 
 nav a {
-    color: #ffffff;
+    color: #ddf3f5;
     text-decoration: none;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #100EE6;
+    color: #4845ee;
 }
 
 /*FOOTER*/
 
 footer {
     background-color: #030233;
-    color: #ffffff;
-
+    color: #ddf3f5;
     text-align: center;
-
     padding: 35px 0;
-
     border-top: 3px solid #100EE6;
 }
 
@@ -135,8 +132,8 @@ input[type="text"]:focus {
 /*BOTÃO*/
 button {
     padding: 12px;
-    background-color: #100EE6;
-    color: #ffffff;
+    background-color: #110ee7;
+    color: #ddf3f5;
     border: none;
     border-radius: 5px;
     font-size: 16px;
@@ -145,5 +142,5 @@ button {
 }
 
 button:hover {
-    background-color: #030233;
+    background-color: #4845ee;
 }
