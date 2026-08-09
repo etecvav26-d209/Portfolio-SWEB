@@ -21,6 +21,8 @@ if ($metodo == "md5") {
 
         <p>Método utilizado: <?php echo $metodo; ?></p>
 
+        <p>Resultado: <?php echo $resultado; ?></p>
+
     </div>
 
 </main>
