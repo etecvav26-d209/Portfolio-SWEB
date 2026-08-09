@@ -4,6 +4,10 @@ include("includes/header.php");
 
 $texto = $_POST["texto"];
 $metodo = $_POST["metodo"];
+if ($metodo == "md5") {
+    $resultado = md5($texto);
+}
+
 
 ?>
 
