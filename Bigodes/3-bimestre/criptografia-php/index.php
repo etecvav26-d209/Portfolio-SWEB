@@ -98,9 +98,29 @@
 
     <section id="sha256">
 
-     <div class="container">
+    <div class="container">
 
-     
+      <h2>SHA-256</h2>
+
+        <p>
+            SHA-256 é uma função de hash pertencente à família
+            Secure Hash Algorithm (SHA). Ela transforma um texto
+            em um valor de hash de tamanho fixo.
+        </p>
+
+        <p>
+            O SHA-256 produz um resultado de 256 bits, normalmente
+            representado por uma sequência hexadecimal de 64 caracteres.
+        </p>
+
+        <p>
+            No PHP, podemos utilizar a função hash() informando
+            o algoritmo "sha256" e o texto que será processado.
+        </p>
+
+        <div class="card">
+            
+        </div>
 
     </div>
 
