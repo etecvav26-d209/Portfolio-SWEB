@@ -126,6 +126,11 @@
                 Digite um texto abaixo para gerar seu hash SHA-256.
             </p>
 
+                <form action="processar.php" method="POST">
+
+                </form>
+
+
         </div>
 
     </div>
