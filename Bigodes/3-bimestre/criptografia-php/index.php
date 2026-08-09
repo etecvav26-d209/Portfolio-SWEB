@@ -82,7 +82,11 @@ include("includes/header.php");
                     placeholder="Digite um texto"
                 >
 
-                
+                <input
+                    type="hidden"
+                    name="metodo"
+                    value="md5"
+                >
 
                 </form>
 
