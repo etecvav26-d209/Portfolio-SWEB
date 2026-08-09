@@ -89,3 +89,24 @@ section h2 {
 section p {
     margin-bottom: 15px;
 }
+
+/*CARDS*/
+
+.card {
+    background-color: #ffffff;
+    color: #050452;
+    padding: 25px;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+
+.card h3 {
+    color: #050452;
+    margin-bottom: 10px;
+}
+
+.card p {
+    margin-bottom: 20px;
+}
+
+
