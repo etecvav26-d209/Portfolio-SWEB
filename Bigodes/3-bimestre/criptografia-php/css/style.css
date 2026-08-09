@@ -14,3 +14,9 @@ body {
     color: #ffffff;
     line-height: 1.6;
 }
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
