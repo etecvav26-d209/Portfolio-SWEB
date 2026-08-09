@@ -120,6 +120,12 @@
 
         <div class="card">
             
+         <h3>Teste o SHA-256</h3>
+
+            <p>
+                Digite um texto abaixo para gerar seu hash SHA-256.
+            </p>
+
         </div>
 
     </div>
