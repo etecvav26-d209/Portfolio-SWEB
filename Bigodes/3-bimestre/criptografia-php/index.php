@@ -65,6 +65,16 @@ include("includes/header.php");
         </p>
 
     </div>
+
+     <div class="card">
+
+            <h3>Teste o MD5</h3>
+
+            <p>
+                Digite um texto abaixo para gerar seu hash MD5.
+            </p>
+
+    </div>
     
     </section>
 
