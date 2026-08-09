@@ -74,6 +74,8 @@ include("includes/header.php");
                 Digite um texto abaixo para gerar seu hash MD5.
             </p>
 
+ <form action="processar.php" method="POST">
+    
     </div>
     
     </section>
