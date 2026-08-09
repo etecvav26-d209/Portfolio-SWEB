@@ -188,6 +188,15 @@
                     placeholder="Digite um texto"
                 >
 
+                     <input
+                    type="hidden"
+                    name="metodo"
+                    value="base64"
+                >
+
+                <button type="submit">
+                    Codificar em Base64
+                </button>
 
                 </form>
             
