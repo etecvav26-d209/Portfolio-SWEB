@@ -140,14 +140,14 @@
                     value="sha256"
                 >
 
+                <button type="submit">
+                     Gerar SHA-256
+                </button>
+
                 </form>
-
-
         </div>
-
     </div>
-
-    </section>
+</section>
 
 </main>
 
