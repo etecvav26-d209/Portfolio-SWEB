@@ -64,7 +64,6 @@
                 de um determinado texto.
             </p>
 
-        </div>
 
         <div class="card">
 
@@ -93,6 +92,7 @@
                 </button>
 
                 </form>
+        </div>
         </div>
     </section>
 
