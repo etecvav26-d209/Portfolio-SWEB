@@ -5,6 +5,8 @@
 
     <meta charset="UTF-8">
 
+    <link rel="stylesheet" href="css/style.css">
+
     <title>Criptografia em PHP</title>
 
 </head>
@@ -30,6 +32,7 @@
             <a href="index.php#sha256">SHA-256</a>
 
             <a href="index.php#base64">Base64</a>
+
 
         </nav>
     </div>
