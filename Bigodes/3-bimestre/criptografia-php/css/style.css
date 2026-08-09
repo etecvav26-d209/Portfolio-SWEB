@@ -116,4 +116,15 @@ form {
     gap: 15px;
 }
 
+/*CAIXA DE TEXTO*/
+input[type="text"] {
+    padding: 12px;
+    border: 2px solid #100EE6;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+}
 
+input[type="text"]:focus {
+    border-color: #050452;
+}
