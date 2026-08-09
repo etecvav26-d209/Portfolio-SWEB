@@ -32,6 +32,7 @@ body {
       rgba(145, 211, 238, 0.06),
       transparent 50%
     );
+     background-attachment: fixed;
     color: #ffffff;
     line-height: 1.6;
 }
