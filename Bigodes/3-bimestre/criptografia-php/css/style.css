@@ -53,6 +53,8 @@ nav a:hover {
     color: #100EE6;
 }
 
+
+
 footer {
     background-color: #050452;
     color: #ffffff;
@@ -72,3 +74,17 @@ footer p {
     margin-bottom: 8px;
 }
 
+
+
+section {
+    padding: 60px 0;
+}
+
+section h2 {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+section p {
+    margin-bottom: 15px;
+}
