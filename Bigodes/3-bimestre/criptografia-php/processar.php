@@ -36,6 +36,9 @@ if ($metodo == "base64") {
 
             <p>Resultado: <?php echo $resultado; ?></p>
 
+            <a class="btn-voltar" href="index.php">← Voltar para gerar outro</a>
+
+
         </div>
 
         </div>
