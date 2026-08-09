@@ -43,3 +43,9 @@ include("includes/header.php");
     </section>
 
 </main>
+
+<?php
+
+include("includes/footer.php");
+
+?>
