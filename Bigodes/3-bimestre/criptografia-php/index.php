@@ -134,6 +134,12 @@
                     placeholder="Digite um texto"
                 >
 
+                 <input
+                    type="hidden"
+                    name="metodo"
+                    value="sha256"
+                >
+
                 </form>
 
 
