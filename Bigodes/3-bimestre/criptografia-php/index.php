@@ -149,6 +149,12 @@
     </div>
 </section>
 
+<section id=base64>
+
+
+
+</section>
+
 </main>
 
 <?php
