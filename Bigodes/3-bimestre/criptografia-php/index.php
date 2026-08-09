@@ -153,8 +153,25 @@
 
     <div class="container">
 
+        <h2>Base64</h2>
 
-    
+            <p>
+                Base64 é uma forma de codificação utilizada para representar
+                dados por meio de um conjunto de caracteres.
+            </p>
+
+            <p>
+                Diferentemente do MD5 e do SHA-256, Base64 não é uma função
+                de hash e também não é um método de criptografia. Sua principal
+                característica é que os dados codificados podem ser decodificados
+                posteriormente.
+            </p>
+
+            <p>
+                No PHP, podemos utilizar a função base64_encode() para codificar
+                um determinado texto.
+            </p>
+
     </div>
 
 </section>
