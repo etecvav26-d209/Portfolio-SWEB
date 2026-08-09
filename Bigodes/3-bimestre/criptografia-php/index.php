@@ -180,6 +180,12 @@
                 Digite um texto abaixo para realizar a codificação em Base64.
             </p>
             
+                <form action="processar.php" method="POST">
+
+                    
+
+                </form>
+            
         </div>
     </div>
 
