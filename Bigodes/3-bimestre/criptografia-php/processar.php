@@ -22,17 +22,20 @@ if ($metodo == "base64") {
 
 <main>
 
-    <div class="container">
+    <section id="resultado">
 
-        <h2>Resultado</h2>
+        <div class="container">
 
-        <p>Texto informado: <?php echo $texto; ?></p>
+            <h2>Resultado</h2>
 
-        <p>Método utilizado: <?php echo $metodo; ?></p>
+            <p>Texto informado: <?php echo $texto; ?></p>
 
-        <p>Resultado: <?php echo $resultado; ?></p>
+            <p>Método utilizado: <?php echo $metodo; ?></p>
 
-    </div>
+            <p>Resultado: <?php echo $resultado; ?></p>
+
+        </div>
+    </section>
 
 </main>
 
