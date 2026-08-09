@@ -96,6 +96,12 @@
         </div>
     </section>
 
+    <section id="sha256">
+
+    
+
+    </section>
+
 </main>
 
 <?php
