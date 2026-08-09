@@ -109,4 +109,11 @@ section p {
     margin-bottom: 20px;
 }
 
+/*FORMULÁRIO*/
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
 
