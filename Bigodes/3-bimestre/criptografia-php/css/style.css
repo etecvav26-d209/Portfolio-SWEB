@@ -78,7 +78,7 @@ footer p {
 
 /*SEÇÕES*/
 section {
-    padding: 60px 0;
+    padding: 80px 0;
 }
 
 section h2 {
@@ -129,7 +129,7 @@ input[type="text"]:focus {
     border-color: #050452;
 }
 
-/*botão*/
+/*BOTÃO*/
 button {
     padding: 12px;
     background-color: #100EE6;
