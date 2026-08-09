@@ -174,7 +174,12 @@
     
         <div class="card">
 
-        
+        <h3>Teste o Base64</h3>
+
+            <p>
+                Digite um texto abaixo para realizar a codificação em Base64.
+            </p>
+            
         </div>
     </div>
 
