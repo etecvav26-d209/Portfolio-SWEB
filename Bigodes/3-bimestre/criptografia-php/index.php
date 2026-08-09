@@ -182,7 +182,12 @@
             
                 <form action="processar.php" method="POST">
 
-                    
+                    <input
+                    type="text"
+                    name="texto"
+                    placeholder="Digite um texto"
+                >
+
 
                 </form>
             
