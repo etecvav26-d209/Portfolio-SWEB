@@ -28,11 +28,15 @@ if ($metodo == "base64") {
 
             <h2>Resultado</h2>
 
+            <div class="card">
+
             <p>Texto informado: <?php echo $texto; ?></p>
 
             <p>Método utilizado: <?php echo $metodo; ?></p>
 
             <p>Resultado: <?php echo $resultado; ?></p>
+
+        </div>
 
         </div>
     </section>
