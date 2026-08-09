@@ -88,6 +88,10 @@ include("includes/header.php");
                     value="md5"
                 >
 
+                 <button type="submit">
+                    Gerar MD5
+                </button>
+
                 </form>
 
     </div>
