@@ -32,6 +32,7 @@ header {
 header h1 {
     color: #91d3ee;
     margin-bottom: 8px;
+    font-size: 43px;
 }
 
 header p {
